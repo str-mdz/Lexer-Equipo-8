@@ -48,7 +48,7 @@ compilers-g5
 │   ├── code9.txt
 │   └── code10.txt
 │
-├── doc
+├── docs
 │   └── report.pdf
 │
 └── README.md
@@ -59,7 +59,7 @@ compilers-g5
 
 The complete project report containing the theoretical framework, development process, results and conclusions can be found in the following document:
 
-doc/report.pdf
+docs/report.pdf
 
 ---
 
