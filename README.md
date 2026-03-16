@@ -32,6 +32,7 @@ The lexer simulates DFA behavior through conditional transitions while scanning 
 
 ## Project Structure
 
+```
 compilers-g5
 │
 ├── src
@@ -47,28 +48,30 @@ compilers-g5
 │   ├── code9.txt
 │   └── code10.txt
 │
-├── doc
+├── docs
 │   └── report.pdf
 │
 └── README.md
 
----
+```
 
 ## Documentation
 
 The complete project report containing the theoretical framework, development process, results and conclusions can be found in the following document:
 
-doc/report.pdf
+docs/report.pdf
 
 ---
 
 ## How to Run
 
-Run the lexer with a test file:
+Run the lexer:
 
-python src/lexer.py test/code1.txt
+python src/main.py
 
-The program also allows manual input through the terminal.
+Then choose option 2 and enter the test file:
+test/code1.txt
+
 
 ---
 
@@ -79,4 +82,5 @@ Group 5
 Computer Engineering  
 UNAM – Compilers Course  
 Semester 2026-II
+
 
