@@ -32,6 +32,7 @@ The lexer simulates DFA behavior through conditional transitions while scanning 
 
 ## Project Structure
 
+```
 compilers-g5
 │
 ├── src
@@ -52,7 +53,7 @@ compilers-g5
 │
 └── README.md
 
----
+```
 
 ## Documentation
 
