@@ -67,7 +67,7 @@ docs/report.pdf
 
 Run the lexer with a test file:
 
-python src/lexer.py test/code1.txt
+python src/main.py test/code1.txt
 
 The program also allows manual input through the terminal.
 
