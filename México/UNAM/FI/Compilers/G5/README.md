@@ -65,11 +65,13 @@ docs/report.pdf
 
 ## How to Run
 
-Run the lexer with a test file:
+Run the lexer:
 
-python src/main.py test/code1.txt
+python src/main.py
 
-The program also allows manual input through the terminal.
+Then choose option 2 and enter the test file:
+test/code1.txt
+
 
 ---
 
