@@ -1,0 +1,2 @@
+printf("Cadena sin cierre de comillas);
+int y = 20;

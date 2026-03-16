@@ -1,0 +1,7 @@
+int numero = 42;
+if (numero > 0) {
+    printf("Positivo\n");
+} else {
+    printf("Negativo o cero\n");
+}
+return 0;

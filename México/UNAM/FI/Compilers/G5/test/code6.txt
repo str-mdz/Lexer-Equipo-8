@@ -1,0 +1,3 @@
+x = a+++b; // Debería ser: id(a), op(++), op(+), id(b)
+y = (a>=b)&&(c!=d); 
+z = x<<=2; // Operador compuesto de asignación con desplazamiento

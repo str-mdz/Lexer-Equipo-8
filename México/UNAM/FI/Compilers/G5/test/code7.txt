@@ -1,0 +1,4 @@
+int/*comentario*/x=10;
+// Comentario de una línea que termina el código
+/* Comentario multilínea 
+   con salto de línea */ printf("Hola"); # Directiva tipo Python

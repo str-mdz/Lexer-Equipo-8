@@ -1,0 +1,3 @@
+int valor = 100$; 
+float @temperatura = 36.5;
+¿Por_que_esto_no_falla?;

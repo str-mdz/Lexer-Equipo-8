@@ -1,0 +1,3 @@
+int _variable_oculta = 1;
+int VariableConNumeros123 = 2;
+int a_b_c_d_e = 3;
